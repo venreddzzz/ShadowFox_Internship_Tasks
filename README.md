@@ -10,7 +10,7 @@ During this internship, I worked on real-world challenges, gaining hands-on expe
 **Key Focus Areas:**
 **Java Programming**: Strengthening core Java concepts.
 
-**Problem-Solving**: ATackling complex coding challenges, optimizing solutions, and enhancing algorithmic thinking.
+**Problem-Solving**: A Tackling complex coding challenges, optimizing solutions, and enhancing algorithmic thinking.
 
 **Project Development**: Building Java applications, following best practices.
 
@@ -32,6 +32,6 @@ During this internship, I worked on real-world challenges, gaining hands-on expe
 
 **Internship Duration:** 1st October 2024 to 31st October 2024
 
-**Position:** Java Development
+**Domain:** Java Development
 
 **Company:** ShadowFox
