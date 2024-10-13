@@ -30,8 +30,8 @@ During this internship, I worked on real-world challenges, gaining hands-on expe
 
 **Internship Details:**
 
-**Internship Duration:** 1st October 2024 to 31st October 2024
+1. **Internship Duration:** 1st October 2024 to 31st October 2024
 
-**Internship Domain:** Java Development
+2. **Internship Domain:** Java Development
 
-**Company:** ShadowFox
+3. **Company:** ShadowFox
