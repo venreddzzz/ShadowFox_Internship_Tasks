@@ -19,19 +19,19 @@ During this internship, I worked on real-world challenges, gaining hands-on expe
 
 **Learning Outcomes:**
 
-  1.Mastered key Java concepts like classes, interfaces, inheritance, and exception handling.
+  1. Mastered key Java concepts like classes, interfaces, inheritance, and exception handling.
   
-  2.Gained hands-on experience in developing Java applications.
+  2. Gained hands-on experience in developing Java applications.
   
-  3.Improved problem-solving skills using Java and gained familiarity with industry-standard practices.
+  3. Improved problem-solving skills using Java and gained familiarity with industry-standard practices.
   
-  3.Learned Git and GitHub for effective collaboration and code management.
+  4. Learned Git and GitHub for effective collaboration and code management.
 
 
 **Internship Details:**
 
 **Internship Duration:** 1st October 2024 to 31st October 2024
 
-**Domain:** Java Development
+**Internship Domain:** Java Development
 
 **Company:** ShadowFox
